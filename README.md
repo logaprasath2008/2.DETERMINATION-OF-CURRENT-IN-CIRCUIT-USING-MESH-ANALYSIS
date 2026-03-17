@@ -21,6 +21,12 @@
 *Multi-source DC circuits may be analyzed using a mesh current technique. The process involves identifying minimum number of small loops such that every component exists in at least one loop. KVL is then applied to each loop. The loop currents are referred to as mesh currents as each current interlocks or meshes with the surrounding loop currents. As a result there will be a set of simultaneous equations created, an unknown mesh current for each loop. Once the mesh currents are determined, various branch currents and component voltages may be derived*
 
 **CIRCUIT DIAGRAM:**
+<img width="1600" height="1586" alt="image" src="https://github.com/user-attachments/assets/a0f937a1-1a4b-45bb-9d28-80c540678f45" />
+**TABULATION:**
+<img width="1231" height="1600" alt="image" src="https://github.com/user-attachments/assets/286d0d69-1884-4dc9-81c0-c6b82528c04f" />
+**CALCULATION:**
+<img width="911" height="1600" alt="image" src="https://github.com/user-attachments/assets/a2b01161-eb7b-47c9-be06-405f11a53b85" />
+
 
 **PROCEDURE:** 
 
@@ -38,11 +44,11 @@
 
    **RESULT:**
 
-Thus, the Mesh analysis is verified practically and theoretically. The resultant currents for 	/	V supply are:
+Thus, the Mesh analysis is verified practically and theoretically. The resultant currents for 	5/3	V supply are:
 
-a)	The current across 330Ω resistor is	A.
+a)	The current across 330Ω resistor is	1.2 A.
 
-b)	The current across 560Ω resistor is	A.
+b)	The current across 560Ω resistor is	4.2 A.
 
-c)	The current across 470Ω resistor is	A.
+c)	The current across 470Ω resistor is	5.4 A.
 
